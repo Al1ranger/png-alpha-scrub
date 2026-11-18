@@ -39,3 +39,5 @@ The StudioNet proof runner expects a public repository commit containing
 the fixtures and the pinned JS SDK from `npm ci`. Set a configured StudioNet
 signer in the deployment harness and run `node scripts/prove.mjs <commit>`.
 The `--verify-only` mode checks existing receipts and reads.
+
+[StudioNet proofs](LIVE_PROOFS.md) · [Submission](SUBMISSION.md)
